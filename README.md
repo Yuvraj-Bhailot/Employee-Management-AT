@@ -20,8 +20,8 @@ This project demonstrates the practical implementation of Java programming conce
 ## 🛠️ Technologies Used
 
 - **Java** – Core application logic and functionality.
-- **JDBC** – Database connectivity (if configured).
-- **SQL** – Database management (if configured).
+- **Hibernate** – Database connectivity.
+- **PostgreSQL** – Database management.
 - **Eclipse IDE / IntelliJ IDEA** – Development environment.
 
 ## ⚙️ Prerequisites
